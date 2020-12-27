@@ -28,7 +28,7 @@ async def get_user_name(request):
 @app.route('/get_data')
 async def get_data(request):
     # calc
-    a = {
+    a = {b
         'a': [],
         'd': [],
     }

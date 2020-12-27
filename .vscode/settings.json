@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "c:\\Users\\Edwar\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe"
+    "python.pythonPath": "c:\\Users\\Edwar\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
